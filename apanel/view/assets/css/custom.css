@@ -1,0 +1,64 @@
+textarea {
+	resize: none;
+}
+.form-control.input-sm {
+	height: 30px !important;
+	padding: 5px 10px !important;
+}
+.navbar-nav .dropdown-menu {
+	padding: 0;
+}
+.navbar-nav .dropdown-menu a {
+	padding: 10px 15px;
+}
+.form-group .icheckbox_square-blue {
+	margin-top: 6px;
+}
+* + .delete_button {
+	margin-left: 20px;
+}
+.force-left {
+	text-align: left !important;
+}
+.force-right {
+	text-align: right !important;
+}
+.form-hr {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+
+.asterisk {
+    font-weight: bold;
+    font-size: 9pt;
+    color: #fe0003;
+}
+.pageheader {
+	background-color: #3c8dbc;
+    width: 100%;
+    padding: 12px;
+}
+.pagetitle {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.width100 {
+	width: 100%;
+}
+tr td .invi {
+	white-space: nowrap;
+    visibility: hidden;
+}
+tr:hover td .invi {
+	visibility: visible;
+}
+.text-center {
+	text-align:center;
+}
+.no-margin {
+	margin: 0;
+}
