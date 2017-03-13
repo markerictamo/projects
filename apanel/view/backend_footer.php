@@ -20,9 +20,9 @@
 			</div>
 			<footer class="main-footer">
 				<div class="pull-right hidden-xs">
-					<b>Version</b> 2.3.8
+					<b>Version</b> 12.30.17
 				</div>
-				<strong>Copyright &copy; 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights reserved.
+				<strong>Copyright &copy; 2016-2017 <a href="http://marj-and-eric.com">Fayerictale Studio</a>.</strong> All rights reserved.
 			</footer>
 			<aside class="control-sidebar control-sidebar-dark">
 				<ul class="nav nav-tabs nav-justified control-sidebar-tabs">
